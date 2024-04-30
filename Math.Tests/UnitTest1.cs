@@ -2,12 +2,12 @@ namespace Math.Tests
 {
     public class Tests
     {
-        private MyMath _myMath;
+        private ArithmeticMath _myMath;
 
         [SetUp]
         public void Setup()
         {
-            _myMath = new MyMath();
+            _myMath = new ArithmeticMath();
         }
 
         [Test]

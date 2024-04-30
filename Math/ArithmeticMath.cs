@@ -1,6 +1,6 @@
 ﻿namespace Math
 {
-    public class MyMath
+    public class ArithmeticMath
     {
         public int Sum(int a, int b) => a + b;
         public double Sum(double a, double b) => a + b;
